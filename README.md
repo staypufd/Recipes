@@ -13,18 +13,18 @@ The goal of this project is to allow you to see a list of recipes, add a recipe,
 
 A Recipe should have:
 
-1) A name
-2) A description
-3) A list of ingredients
-4) A list of steps
+* A name
+* A description
+* A list of ingredients
+* A list of steps
 
 The app should allow for:
 
-1) A application home screen
-2) A list of recipes
-3) A recipe view
-4) Adding a ingredient to a recipe
-5) Adding a step to a reciped
+* A application home screen
+* A list of recipes
+* A recipe view
+* Adding a ingredient to a recipe
+* Adding a step to a reciped
 
 
 
